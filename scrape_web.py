@@ -2,7 +2,7 @@ import requests as r
 import pandas as pd
 import re
 
-url_template = "https://ppra.org.pk/dad_tenders.asp?PageNo="
+url_template = "?"
 html_string = """
     <html>
     <head><title>Latest PPRA Tenders</title></head>
